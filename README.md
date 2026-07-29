@@ -1,5 +1,6 @@
 # SIGIZI BALITA (Toddler Nutrition Information & Analysis System)
 
+**Live Application:** [https://sigizi-balita-unand.vercel.app/](https://sigizi-balita-unand.vercel.app/)
 SIGIZI BALITA is a comprehensive digital platform designed to help Posyandu Cadres and Puskesmas Midwives monitor, record, and analyze the growth and nutritional status of toddlers in real-time. This platform integrates Artificial Intelligence (Machine Learning) using a Random Forest Classification model to predict nutritional status and provide accurate early intervention recommendations.
 
 ---
