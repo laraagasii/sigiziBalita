@@ -1,4 +1,4 @@
-# SIGIZI BALITA (Toddler Nutrition Information & Analysis System) 👶📊
+# SIGIZI BALITA (Toddler Nutrition Information & Analysis System) 
 
 **Live Application:** [sigizi-balita-unand.vercel.app](https://sigizi-balita-unand.vercel.app/)
 
@@ -6,7 +6,7 @@
 
 > **Team / Contributors:** This project was collaboratively built and developed by **Lara**, **Fayi**, and **Sherly**.
 
-## ✨ Key Features
+##  Key Features
 
 **1. Posyandu Cadre Work Portal**
 *   **Registration & Examination:** Recording of toddlers' physical data including Weight, Height, Head Circumference, Mid-Upper Arm Circumference, and Height Measurement Method.
@@ -20,7 +20,7 @@
 *   **Cadre Data:** Management and coordination of active cadre data assigned to each respective Posyandu.
 *   **PDF Reports:** Exporting toddler nutritional history periodically into print-ready PDF documents.
 
-## 🛠️ Architecture & Technology
+##  Architecture & Technology
 
 **Frontend:**
 *   React 18 with TypeScript
@@ -38,7 +38,7 @@
 *   Firebase Authentication (Secure access separation for Cadres and Midwives)
 *   Firebase Firestore (Structured document storage and real-time synchronization)
 
-## 📂 Project Folder Structure
+##  Project Folder Structure
 
 ```text
 SIGIZI BALITA/
